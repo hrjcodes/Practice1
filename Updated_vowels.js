@@ -1,3 +1,5 @@
+
+
 const vowels = ["a", "e", "i", "o", "u"];
 
 const string = prompt('Please enter your message: ');
@@ -17,4 +19,3 @@ const countVowels = () => {
  return vowelNumber
     }
     console.log(`The number of vowels is ${countVowels(string)}`);
-    
