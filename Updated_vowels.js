@@ -16,4 +16,5 @@ const countVowels = () => {
         }
  return vowelNumber
     }
-    countVowels(string);
+    console.log(`The number of vowels is ${countVowels(string)}`);
+    
